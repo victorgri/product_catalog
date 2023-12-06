@@ -4,6 +4,7 @@
  - React context
  - Lodash debounce
  - BEM
+   DEMO LINK: https://victorgri.github.io/react_phone-catalog/
 
 # Getting Started with Create React App
 
