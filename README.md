@@ -3,6 +3,7 @@
  - React router
  - React context
  - Lodash debounce
+ - BEM
 
 # Getting Started with Create React App
 
